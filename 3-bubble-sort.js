@@ -1,5 +1,6 @@
 const arrayToSort = [1, 4, 63, 324, 547, 57, 5, 12, 87, 45, 23];
 
+
 const bubbleSort = (array) => {
 	const length = array.length;
 
